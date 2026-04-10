@@ -8,7 +8,7 @@
 
 MS Analytics candidate at Northeastern University (3.96 GPA). Previously a PG Diploma in Data Science from IIIT Bangalore.
 
-I work on AI/ML pipelines, LLM evaluation, and knowledge aggregation systems. Currently a Tech Lead at [Feminine Intelligence Agency](https://www.femintelligenceagency.com/), a Northeastern-affiliated research project, where I manage a student cohort and build NLP pipelines that evaluate retrieval quality across multiple LLMs.
+I work on AI/ML pipelines, LLM evaluation, and knowledge aggregation systems. Currently a Tech Lead at [Feminine Intelligence Agency](https://www.linkedin.com/company/feminineintelligenceagency/), a Northeastern-affiliated research project, where I manage a student cohort and build NLP pipelines that evaluate retrieval quality across multiple LLMs.
 
 Before grad school, I spent a year and a half as a Software Engineer at Travlog, building a production social app from scratch with Flutter, AWS, and Firebase. I also freelanced on [Upwork](https://www.upwork.com/freelancers/~01919993dd7b0aa257?viewMode=1) (5.0 rating) building mobile apps for clients across e-commerce and media.
 
@@ -31,7 +31,7 @@ Before grad school, I spent a year and a half as a Software Engineer at Travlog,
 
 ### Featured project
 
-**[DermRx Agent](https://github.com/meshivanshsinghh/dermrx-agent)** · Built for Google's MedGemma Impact Challenge 2026 on Kaggle. A multi-model medical AI pipeline that orchestrates 3 quantized Google HAI-DEF models (MedSigLIP, MedGemma 4B, TxGemma 2B) on a single T4 GPU using PyTorch and HuggingFace Transformers. Aggregates drug knowledge from 3 federal sources into a unified safety system that catches dangerous drug interactions.
+**[DermRx Agent](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/dermrx-agent)** · Built for Google's MedGemma Impact Challenge 2026 on Kaggle. A multi-model medical AI pipeline that orchestrates 3 quantized Google HAI-DEF models (MedSigLIP, MedGemma 4B, TxGemma 2B) on a single T4 GPU using PyTorch and HuggingFace Transformers. Aggregates drug knowledge from 3 federal sources into a unified safety system that catches dangerous drug interactions.
 
 ---
 
@@ -39,7 +39,7 @@ Before grad school, I spent a year and a half as a Software Engineer at Travlog,
 
 - [Technical Innovation Award](https://devpost.com/software/finai-zid73o) · CodeLinc10 Hackathon, sponsored by Cognizant (2025)
 - [Leadership & Influence Award](https://credsverse.com/credentials/a305c469-5efd-48e2-96a6-67cdc363819f) · Feminine Intelligence Agency, Northeastern University (2025)
-- [Data Visualization and Storytelling](https://northeastern.badgr.com/public/credentials/p4BFwwXYSAi9o_vHIKuVug) · Northeastern University (2025)
+- [Data Visualization and Storytelling](https://northeastern.badges.parchment.com/public/credentials/p4BFwwXYSAi9o_vHIKuVug) · Northeastern University (2025)
 - [Advanced Certificate in Data Science](https://www.credential.net/e554629c-e916-4a1d-8af9-95bdf41fd0d8#acc.Ebi7vT1p) · IIIT Bangalore (2025)
 
 ---
